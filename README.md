@@ -1,7 +1,8 @@
 # CPP-Data-Structures-And-Algorithms
-C++ / C Data Structures and Algorithms Written completely Vanilla
-This was just for me to learn, use and demonstrate DS&Algos in code without using
-Built in STL Functions for example
+C++ Data Structures and Algorithms notes as I follow along on my course.
+This repository is mainly to track my learning and upload various things such as
+common Data structures and Algorithms, Standard Template Library Features and
+Optimization and Memory management features that can be used to make the best applications.
 
--- This code repository is just full of c++/c main files / classes that link to different
-data structures and algorithms commonly used in computer science --
+This is all about my learning journey as programming comes rich in fruitful knowledge you can
+never stop learning - there's always something new to learn. Thats the best thing about it
