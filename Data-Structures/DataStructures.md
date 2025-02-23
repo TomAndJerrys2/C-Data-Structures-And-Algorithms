@@ -13,7 +13,7 @@ how dynamic allocation, reallocation and deletion worked in memory so my data st
 - Basic Dictionary
 - Hash Maps, Sets and Tables
 
-# Stack - Linear Data Structures]
+# Stack - [Linear Data Structures]
 a Stack, being a Last-In First-Out data structure, is a commonly used data structure in computer science that is useful for storing data in.
 It has common operations such as `push()` to add an item to the stack. `pop()` to delete the top-most item from the stack and return it. Among
 those two read/write functions there are numerous common methods such as `peek()` and `isFull()`, `isEmpty()`.
@@ -48,11 +48,10 @@ struct Node {
 ```
 With this difference, it gives the programmer optional traversal (start at the head or tail)
 
-# Circularly Linked List
-
-# Dictionary / HashMap
-
-# Hash Table
+# Hash Table - Dictionary/Hash Map
+A Hash table is a data structure that passes Key-value pairs into a hash function and stores them
+appropriately. This makes indexing and searching for an item constant time if you know the index or
+linear time if you search through the HashMap
 
 # Trees
 
