@@ -46,6 +46,7 @@ struct Node {
   }
 }
 ```
+With this difference, it gives the programmer optional traversal (start at the head or tail)
 
 # Circularly Linked List
 
