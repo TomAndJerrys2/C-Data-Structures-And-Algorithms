@@ -33,9 +33,21 @@ There are also three different types of LinkedList:
 - Doubly Linked List (holds data to point to the element before AND after it in the list)
 - Circularly Linked List (The Tail node points to the Head nodes address)
 
-# Circularly Linked List
-
 # Doubly Linked List
+Inherits the same functionality and basis as a Linked list - with the exception that each node
+holds not only the next Nodes address but also the previous Nodes address. i.e.
+```c++
+struct Node {
+  int data; // the data you want the node to hold
+  Node* next, prev;
+  Node(int _data) {
+    data = _data;
+    prev = next = nullptr;
+  }
+}
+```
+
+# Circularly Linked List
 
 # Dictionary / HashMap
 
